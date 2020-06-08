@@ -6,9 +6,13 @@
 - book_demo：后端部分代码（这里面前端代码已经build好放进去了，对应于dist文件夹）
 
 ### 运行
-安装好文章中所需要的python包。
-terminal运行：
+- 安装好文章中所需要的python包。
+
+- terminal（命令行）中运行：
 ``` bash
 cd book_demo
+python manage.py migrate
 python manage.py runserver
 ```
+
+- 打开浏览器，访问: 127.0.0.1:8000
