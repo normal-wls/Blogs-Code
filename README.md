@@ -7,6 +7,14 @@
 
 ----
 **文章列表**
+- [【用键盘画图(二)】mermaid 时序图 实践](https://mp.weixin.qq.com/s/peErMjrw6aSxXqMyqjNHrw)
+- [【用键盘画图】mermaid 甘特图 实践](https://mp.weixin.qq.com/s/wQr_Roj2LlnCxdvtx6sRHA)
+- [【程序员必备技能】Vim入门指南](https://mp.weixin.qq.com/s/iUMg-vumc9jiYOccY6Yu9w)
+- [【ChatGPT火了】我们能用它来做什么 & 它是如何做到的](https://mp.weixin.qq.com/s/henRQi60XWz07WZLrqVJ7Q)
+- [【工具推荐】功能强大全能笔记——Obsidian](https://mp.weixin.qq.com/s/Z5jBQU8N2D-GYBgvxV05_w)
+- [chrome浏览器 标签页多开 最佳实践](https://mp.weixin.qq.com/s/W2Z5uiJQOVm-jV6lInocLg)
+- [Django项目测试利器——django-test-toolkit](https://mp.weixin.qq.com/s/TWXhrJm_Fy7ItBUIVNnTgg): [仓库代码](https://github.com/TencentBlueKing/django-test-toolkit)
+- [【高效工具】手把手教你在命令行中快速用VSCode和PyCharm打开项目](https://mp.weixin.qq.com/s/hHqFrKvWipD0r9qlmxkXbw)
 - [【Django第三方库】一款简单易接入的顶部通知栏](https://mp.weixin.qq.com/s/-CtOjcHzr6b16IPP5-Y47Q): [样例代码](https://github.com/normal-wls/django-top-notify)
 - [AnnotationAutoSchema：让FBV通过函数注释快速接入Swagger UI](https://mp.weixin.qq.com/s/owmitv33w6ZSCrNQ92AoOg): [样例代码](https://github.com/normal-wls/drf_tools/tree/master/tools/schemas)
 - [Django Rest Framework 可自定义读写 Serializer Field实现（附代码）](https://mp.weixin.qq.com/s?__biz=MzIzNjU1NDAwOA==&mid=2247483766&idx=1&sn=8a4aa4c09fe676a71e39960721c5566d&chksm=e8d75301dfa0da17983a008d69c7c57242efb24234671e6f0518d2429f2eab8ccd41e664204a&token=1159889813&lang=zh_CN#rd): [样例代码](https://github.com/normal-wls/drf_tools.git) 
