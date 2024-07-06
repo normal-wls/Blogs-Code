@@ -84,7 +84,7 @@
 
 #### 手把手Django+Vue前后端分离开发入门(附demo)
 
-[样例代码](./django_demo_with_frontend_and_backend)
+[样例代码](../django_demo_with_frontend_and_backend)
 
 ![django_and_vue](../pics/django_and_vue.png)
 
